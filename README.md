@@ -1,7 +1,3 @@
 # miappcompleta
 
-Este es un portal web que integra todos los conocimientos que hemos adquirido hasta este momento, donde se puede hacer un registro 
-de un usuario, que el usuario inicie sesión, pueda guardar videos asociados a su cuenta, y se plasmen en la información de su perfil.
-
-Utiliza las librerias de express, express sessions, mysql, morgan y connect-flash, que nos permitirán crear la funcionalidad de la 
-página.
+Creando una aplicación web Backend y Frontend, utilizando Nodejs, Mysql, Express y otras tecnologías de Javascript. En este ejemplo creamos una aplicacion de Enlaces, que sera un CRUD de nodejs, más un Login y Registro utilizando Mysql, ademas de proteger nuestras rutas del servidor y estilizar nuestra aplicación con CSS, Bootstrap4, y Handlebars.
